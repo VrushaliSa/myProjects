@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="4" passed="3" failed="0" skipped="0">
+	<reporter-output>
+	</reporter-output>
+	<suite started-at="2023-12-16T21:02:59 IST" name="Default suite"
+		finished-at="2023-12-16T21:03:29 IST" duration-ms="29763">
+		<groups>
+		</groups>
+		<test started-at="2023-12-16T21:02:59 IST" name="Default test"
+			finished-at="2023-12-16T21:03:29 IST" duration-ms="29763">
+			<class name="testRunnerr.exldataGETTest">
+				<test-method
+					signature="runExl(java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:testRunnerr.exldataGETTest@18d87d80]"
+					started-at="2023-12-16T21:03:00 IST" name="runExl"
+					data-provider="dp2" finished-at="2023-12-16T21:03:10 IST"
+					duration-ms="10360" status="PASS">
+					<params>
+						<param index="0">
+							<value>
+                <![CDATA[fname]]>
+              </value>
+						</param>
+						<param index="1">
+							<value>
+                <![CDATA[lname]]>
+              </value>
+						</param>
+						<param index="2">
+							<value>
+                <![CDATA[uname]]>
+              </value>
+						</param>
+					</params>
+					<reporter-output>
+					</reporter-output>
+				</test-method> <!--
+				runExl -->
+				<test-method
+					signature="runExl(java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:testRunnerr.exldataGETTest@18d87d80]"
+					started-at="2023-12-16T21:03:10 IST" name="runExl"
+					data-provider="dp2" finished-at="2023-12-16T21:03:19 IST"
+					duration-ms="9426" status="PASS">
+					<params>
+						<param index="0">
+							<value>
+                <![CDATA[vrushali]]>
+              </value>
+						</param>
+						<param index="1">
+							<value>
+                <![CDATA[salvi]]>
+              </value>
+						</param>
+						<param index="2">
+							<value>
+                <![CDATA[vss]]>
+              </value>
+						</param>
+					</params>
+					<reporter-output>
+					</reporter-output>
+				</test-method> <!--
+				runExl -->
+				<test-method
+					signature="runExl(java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:testRunnerr.exldataGETTest@18d87d80]"
+					started-at="2023-12-16T21:03:19 IST" name="runExl"
+					data-provider="dp2" finished-at="2023-12-16T21:03:29 IST"
+					duration-ms="9430" status="PASS">
+					<params>
+						<param index="0">
+							<value>
+                <![CDATA[Jyoti]]>
+              </value>
+						</param>
+						<param index="1">
+							<value>
+                <![CDATA[salvi]]>
+              </value>
+						</param>
+						<param index="2">
+							<value>
+                <![CDATA[jss]]>
+              </value>
+						</param>
+					</params>
+					<reporter-output>
+					</reporter-output>
+				</test-method> <!--
+				runExl -->
+			</class> <!--
+			testRunnerr.exldataGETTest -->
+		</test> <!--
+		Default test -->
+	</suite> <!--
+	Default suite -->
+</testng-results>
