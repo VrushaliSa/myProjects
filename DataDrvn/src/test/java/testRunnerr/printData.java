@@ -7,7 +7,7 @@ import ExcelReader.ReadExcel1;
 public class printData {
 
 	public printData() {
-		// TODO Auto-generated constructor stub
+		// printing data
 	}
 
 	public static void main(String[] args) throws IOException {
